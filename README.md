@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @akoc1
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in c++.
+- 🌱 I’m currently learning c++
