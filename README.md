@@ -8,8 +8,6 @@ I'm a passionate **Game Developer** with a love for immersive experiences and in
 
 💻 Proficient in **C#** and **ASP.NET**
 
-🌱 Currently learning advanced **Web APIs** and **Cloud Integration**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akoc1dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akoc1dev" height="30" width="40" /></a>
